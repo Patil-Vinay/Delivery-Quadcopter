@@ -1,0 +1,8 @@
+# full size photos and clips straight off the phone
+*.HEIC
+*.MOV
+
+# os junk
+Thumbs.db
+.DS_Store
+desktop.ini
